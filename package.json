@@ -1,0 +1,26 @@
+{
+  "name": "@dom-for-node/tools",
+  "version": "0.0.1",
+  "description": "dom-for-node components tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yorgsite/-dom-for-node-tools.git"
+  },
+  "keywords": [
+    "dom",
+    "js",
+    "html",
+    "dom-for-node"
+  ],
+  "author": "Y0R9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yorgsite/-dom-for-node-tools/issues"
+  },
+  "homepage": "https://github.com/yorgsite/-dom-for-node-tools#readme",
+  "dependencies": {}
+}
