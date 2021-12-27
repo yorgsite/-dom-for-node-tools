@@ -141,6 +141,9 @@ class DragDropFamilly{
 			elements:[],
 		};
 	}
+	familly(name=null){
+		return this._priv.main.familly(name);
+	}
 	drag(data){
 		this._priv.main.drag(data,this._priv.name);
 	}
